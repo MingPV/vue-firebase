@@ -1,9 +1,4 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    Hello Mingming
+    <button class="btn btn-primary">Test Button</button>
 </template>
